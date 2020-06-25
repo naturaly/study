@@ -1,0 +1,11 @@
+/*  추가 작업 */
+git add 파일명 또는 폴더
+/* git 상태 확인 */
+git status 
+
+git reset 
+/* commit 상태를 되돌리기 하는법 */
+git reset --mixed HEAD^
+
+git commit -m "메세지"
+
