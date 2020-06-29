@@ -1,0 +1,15 @@
+
+원격 작업 때 충돌 시 작업
+1. 작업 내용 commit 
+2. pull
+3. 충돌 문서 다시 수정
+4. coimmt 작업
+5. push 작업
+
+git branch 브랜치명
+git checkout 브랜치명
+작업 후 완료 시점에서
+git checkout master
+git merge 브랜치명
+
+git pull
